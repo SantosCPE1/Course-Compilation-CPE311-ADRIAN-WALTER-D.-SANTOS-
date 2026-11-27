@@ -1,7 +1,7 @@
 # Course-Compilation-CPE311-ADRIAN-WALTER-D.-SANTOS-
 This repository contains the activities for the course CPE311 - Computational Thinking with Python
 
-# CPE-010---DATA-STRUCTURES-AND-ALGORITHM-PORTFOLIO
+# CPE-311---Computational Thinking with Python Compilation
 
 This repository contains the accumulated laboratory activities that were assigned in order to finish this course
 
